@@ -6,18 +6,22 @@
 
 * 性 别：男&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;年 龄：21  
 * 手 机：13721118303 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&ensp;  邮 箱：jay_yingguo@mail.ustc.edu.cn    
-* 专 业：计算机科学与计算 &emsp;&emsp;&emsp;&emsp;&emsp; 工作岗位：车载软件工程师
+* 专 业：高分子科学与工程 &emsp;&emsp;&emsp;&emsp;&emsp; 工作岗位：车载软件工程师
 
-## 工作及教育经历
+## 教育经历
+* 永州市第一中学&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2015.9~2018.6&emsp;&emsp;&emsp;&emsp; 高中
+* 中国科学技术大学&emsp;&emsp;&emsp;&emsp;&emsp;2018.9~2022.6&emsp;&emsp;&emsp;&emsp; 高分子科学与工程专业-本科
 
-* 前公司&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;2019.8~至今&emsp;&emsp;&emsp;&emsp;&emsp; 事业群名字-部门名字       
-* 寒武纪行歌科技  &emsp;&emsp;&emsp;&emsp;&emsp;2017.9~2019.7&emsp;&emsp;&emsp;&emsp; 计算机科学与技术专业-研究生         
-* 中国科学技术大学&emsp;&emsp;&emsp;&emsp;&emsp;2013.9~2017.7&emsp;&emsp;&emsp;&emsp; 高分子科学与工程专业-本科  
+
+## 工作经历      
+* 寒武纪行歌科技&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2022.7~至今&emsp;&emsp;&emsp;&emsp; 车载软件开发工程师
+
+  从事 DSP 相关软件开发工作，主要内容为利用 DSP 的加速指令集实现 CV 算子的优化开发，以及嵌入式驱动开发工作。          
 
 ## 专业技能
 
 * 熟练使用 C，了解 Python 语言
-* 掌握基础数据结构和算法的基本原理
+* 掌握vim, git 等工具
 * 等等
 
 ## 项目经历
