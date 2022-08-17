@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Huanjie "Nimo" Tang
+title: Huanjie "Jay" Tang
 email:
   url: mailto:jay_yingguo@mail.ustc.edu.cn
   text: jay_yingguo@mail.ustc.edu.cn
